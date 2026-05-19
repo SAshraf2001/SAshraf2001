@@ -7,19 +7,13 @@ I am a focused Full-Stack Developer dedicated to building scalable, user-centric
 ### 🛠️ Tech Stack & Tools
 
 #### Frontend
-![React](https://shields.io)
-![TailwindCSS](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
+<img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="TailwindCSS" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="HTML5" />
 
 #### Backend & Database
-![Django](https://shields.io)
-![Python](https://shields.io)
-![MySQL](https://shields.io)
+<img src="https://shields.io" alt="Django" /> <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="MySQL" />
 
 #### Tools & OS
-![Git](https://shields.io)
-![Ubuntu](https://shields.io)
+<img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="Ubuntu" />
 
 ---
 
@@ -40,5 +34,5 @@ I am a focused Full-Stack Developer dedicated to building scalable, user-centric
 ---
 
 ### 🤝 Connect with Me
-*   💼 **LinkedIn:** [linkedin.com/in/bh-freelancer](https://linkedin.com)
-*   ✳️ **Upwork:** [Sharjeel Ashraf on Upwork](https://www.upwork.com/freelancers/~01539b10e9e7b98078)
+*   💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+*   ✳️ **Upwork:** [Sharjeel Ashraf on Upwork](https://upwork.com)
